@@ -50,7 +50,7 @@ int main()
 		{
 			Toplam(a, b);
 			cout << "-_-_-_-_-_-_-_-_-_-" << endl;
-			cout << "Writed by Hell'Reys" << endl;
+			cout << "Coded by Hell'Reys" << endl;
 			cout << "-_-_-_-_-_-_-_-_-_-" << endl;
 			break;
 		}
@@ -58,7 +58,7 @@ int main()
 	{
 		Cikarma(a, b);
 		cout << "-_-_-_-_-_-_-_-_-_-" << endl;
-		cout << "Writed by Hell'Reys" << endl;
+		cout << "Coded by Hell'Reys" << endl;
 		cout << "-_-_-_-_-_-_-_-_-_-" << endl;
 		break;
 	}
@@ -66,7 +66,7 @@ int main()
 	{
 		Carpma(a, b);
 		cout << "-_-_-_-_-_-_-_-_-_-" << endl;
-		cout << "Writed by Hell'Reys" << endl;
+		cout << "Coded by Hell'Reys" << endl;
 		cout << "-_-_-_-_-_-_-_-_-_-" << endl;
 		break;
 	}
@@ -75,7 +75,7 @@ int main()
 	{
 		Bolme(a, b);
 		cout << "-_-_-_-_-_-_-_-_-_-" << endl;
-		cout << "Writed by Hell'Reys" << endl;
+		cout << "Coded by Hell'Reys" << endl;
 		cout << "-_-_-_-_-_-_-_-_-_-" << endl;
 		break;
 	}
