@@ -1,1 +1,1 @@
-HesapMakinesi
+This is calculator app.
