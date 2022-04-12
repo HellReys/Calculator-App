@@ -49,27 +49,40 @@ int main()
 	case 1:
 		{
 			Toplam(a, b);
+			cout << "-_-_-_-_-_-_-_-_-_-" << endl;
+			cout << "Writed by Hell'Reys" << endl;
+			cout << "-_-_-_-_-_-_-_-_-_-" << endl;
 			break;
 		}
 	case 2:
 	{
 		Cikarma(a, b);
+		cout << "-_-_-_-_-_-_-_-_-_-" << endl;
+		cout << "Writed by Hell'Reys" << endl;
+		cout << "-_-_-_-_-_-_-_-_-_-" << endl;
 		break;
 	}
 	case 3:
 	{
 		Carpma(a, b);
+		cout << "-_-_-_-_-_-_-_-_-_-" << endl;
+		cout << "Writed by Hell'Reys" << endl;
+		cout << "-_-_-_-_-_-_-_-_-_-" << endl;
 		break;
 	}
 
 	case 4:
 	{
 		Bolme(a, b);
+		cout << "-_-_-_-_-_-_-_-_-_-" << endl;
+		cout << "Writed by Hell'Reys" << endl;
+		cout << "-_-_-_-_-_-_-_-_-_-" << endl;
 		break;
 	}
 
 	default:
 	{
+
 		cout << "Lutfen Dogru Bir Secim Yapiniz!" << endl;
 	}
 
